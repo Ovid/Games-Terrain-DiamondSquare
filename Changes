@@ -1,0 +1,5 @@
+Revision history for Games-Terrain-DiamondSquare
+
+0.01 April 25, 2012
+    - First pass at a terrain generation via a fractal diamond-square
+      algorithm.
