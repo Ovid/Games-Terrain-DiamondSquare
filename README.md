@@ -4,7 +4,7 @@ Games::Terrain::DiamondSquare - Random terrain generation via the Diamond Square
 
 # VERSION
 
-version 0.01
+version 0.02
 
 # SYNOPSIS
 
